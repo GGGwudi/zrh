@@ -1,0 +1,28 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="ZRH:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/ZRH_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="ZRH" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="$PROJECT_DIR$/../backup/commons-io-2.8.0/commons-io-2.8.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../backup/commons-fileupload-1.4-bin/commons-fileupload-1.4.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../backup/c3p0-0.9.1.2.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../backup/javax.mail-1.6.2.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../backup/mchange-commons-java-0.2.20.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../backup/mysql-connector-java-8.0.18.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../backup/mysql-connector-java-8.0.15/mysql-connector-java-8.0.15.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../backup/javax.mail-1.5.1.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../backup/activation.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../backup/c3p0-0.9.5.5.jar" />
+          <element id="library" level="project" name="commons-io-2.8.0" />
+          <element id="library" level="project" name="commons-fileupload-1.4" />
+          <element id="library" level="project" name="mchange-commons-java-0.2.20" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="ZRH/web/Web" />
+    </root>
+  </artifact>
+</component>

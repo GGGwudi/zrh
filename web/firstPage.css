@@ -1,0 +1,81 @@
+body{
+    background:url("pictures/background.png");
+    background-size:100% 100%;
+    font-family: 'Sitka Text';
+    color: aliceblue;
+    background-attachment: fixed;
+}
+.tb{
+    border-spacing: 70px 5px;
+    text-align: center;
+    color: black;
+
+}
+div a{
+    color:black;
+    text-align: center;
+    text-decoration: none;
+}
+.bos{
+    width: 130px;
+    height: 30px;
+    background-color: lightpink;
+    border: lightpink 2px solid;
+    border-radius: 10px;
+    font-size: 18px;
+    color: black;
+}
+.tab{
+     margin-top:10px;
+     margin-bottom:10px;
+     border-spacing: 50px 5px;
+     text-align: center;
+     font-size: 20px;
+     margin-left: 28%;
+     border: black 5px solid;
+     border-radius: 20px;
+     color: black;
+}
+.textbox{
+    border-radius: 5px;
+    text-align: center;
+    height: 30px;
+    font-size: 18px
+}
+.sc{
+    text-align: center;
+    color: black;
+}
+.bb{
+    text-align: center;
+    height: 5%;
+    width: 10%;
+    background-color: lightpink;
+    color: black;
+    margin-left: 45%;
+    margin-bottom: 20px;
+    border: lightpink 2px solid;
+    border-radius: 10px;
+    font-size: 15px;
+}
+.foodinfo{
+    margin-left: 30%;
+    margin-top: 2%;
+    margin-right: 30%;
+    margin-bottom: 10px;
+    padding-top: 2%;
+    padding-bottom: 3%;
+    border-radius: 30px;
+    background:lightpink;
+    text-align: center;
+    color: black;
+}
+.bos2{
+    width: 140px;
+    height: 35px;
+    background-color: salmon;
+    border: lightpink 2px solid;
+    border-radius: 10px;
+    font-size: 15px;
+    color: black;
+}
